@@ -5,4 +5,4 @@ Council & Development Blog for Webb Universe. This project is within the context
 
 ## License
 
-This project has no license.
+MIT
